@@ -1,21 +1,19 @@
-# jiangjunling-lang
-一个开源的中文编程语言 - 实验版本
-<h1 align="center">🎖 将军令项目组</h1>
-<p align="center">
-    <em>将者代码，令行禁止 - 基于中式军事指挥思想的编程语言</em>
-</p>
+# 将军令编程语言
 
-## 项目介绍
+一个开源的中文编程语言，让中文用户更容易学习编程。
 
-将军令是一门基于中式军事指挥思想的编程语言，旨在为中文母语者提供更直观的编程学习体验。
+## 特性
+- ✅ 中文关键字和语法
+- ✅ 变量声明和函数定义
+- ✅ 条件语句和循环控制
+- ✅ 可扩展的架构设计
 
-## 核心项目
+## 快速开始
 
-- [将军令语言核心](https://github.com/jiangjun-ling/lang) - 主仓库
+```bash
+# 克隆项目
+git clone https://github.com/your-username/jiangjunling-lang
+cd jiangjunling-lang
 
-## 加入我们
-
-欢迎各路英才加入，共同打造中文编程新生态！
-
----
-*将者代码，令行禁止*
+# 运行示例
+python main.py 示例/基础语法.jl
